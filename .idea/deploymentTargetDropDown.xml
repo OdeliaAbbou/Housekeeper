@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="app.moodclient">
+        <State />
+      </entry>
+      <entry key="app.moodtherapist">
+        <State />
+      </entry>
+      <entry key="houseclient">
+        <State />
+      </entry>
+      <entry key="houseworker">
+        <State />
+      </entry>
+      <entry key="moodclient">
+        <State />
+      </entry>
+      <entry key="moodtherapist">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
