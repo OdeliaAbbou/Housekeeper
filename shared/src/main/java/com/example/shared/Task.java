@@ -6,7 +6,7 @@ public class Task {
     private String status;
     private long timestamp;
 
-    // 🔄 Obligatoire pour Firebase
+
     public Task() {
     }
 
@@ -23,7 +23,7 @@ public class Task {
         this.timestamp = System.currentTimeMillis();
     }
 
-    // ✅ Getters et setters
+
     public String getId() {
         return id;
     }
